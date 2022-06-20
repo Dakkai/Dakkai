@@ -32,6 +32,7 @@
 ###
 
 <h2 align="left">Trabajo con</h2>
+<h1 align="left">javascript, typescript, react, nodejs, nextjs, sequelize, postgres </h1>
 
 ###
 
