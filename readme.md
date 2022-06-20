@@ -49,15 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dakkai.dakkai&right_color=darkcyan"  />
-</div>
 
 
 <div align="center">
@@ -70,5 +61,9 @@
   <a href="https://open.spotify.com/user/31kqjhca5drsa6scwog44a4pdnq4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kqjhca5drsa6scwog44a4pdnq4&count=5" alt="Spotify recently played"  />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dakkai.dakkai&right_color=darkcyan"  />
 </div>
 
