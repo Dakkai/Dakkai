@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🎯 Me apasiona la tecnología y aspiro a poder vivir de ella.<br><br>🎲 Soy una persona tranquila que sabe restarle importancia a los problemas que no la tienen e intenta ante todo buscarles una solución en vez de ahogarse en ellos.<br><br>📚 Siempre a la espera de todo lo que me queda por aprender.<br><br>✨ intento siempre corregir mas bugs de los que creo.</p>
+<p align="left">🎯 Me apasiona la tecnología y aspiro a poder vivir de ella.<br><br>🎲 Soy una persona tranquila que sabe restarle importancia a los problemas que no la tienen e intenta ante todo buscarles una solución en vez de ahogarse en ellos.<br><br>📚 Siempre a la espera de todo lo que me queda por aprender.<br><br>✨ intento siempre corregir mas bugs de los que agrego.</p>
 
 ###
 <p align="center">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</p>
