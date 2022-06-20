@@ -9,15 +9,6 @@
 <p align="left">podes ver mas detalles sobre mis proyectos en mi PORTFOLIO</p>
 
 ###
-
-<h2 align="left">Sobre mi</h2>
-
-###
-
-<p align="left">🎯 Me apasiona la tecnología y aspiro a poder vivir de ella.<br><br>🎲 Soy una persona tranquila que sabe restarle importancia a los problemas que no la tienen e intenta ante todo buscarles una solución en vez de ahogarse en ellos.<br><br>📚 Siempre a la espera de todo lo que me queda por aprender.<br><br>✨ intento siempre corregir mas bugs de los que creo.</p>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/franco-garc%C3%ADa-040320199/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -26,6 +17,17 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
+
+
+<h2 align="left">Sobre mi</h2>
+
+###
+
+<p align="left">🎯 Me apasiona la tecnología y aspiro a poder vivir de ella.<br><br>🎲 Soy una persona tranquila que sabe restarle importancia a los problemas que no la tienen e intenta ante todo buscarles una solución en vez de ahogarse en ellos.<br><br>📚 Siempre a la espera de todo lo que me queda por aprender.<br><br>✨ intento siempre corregir mas bugs de los que creo.</p>
+
+###
+<p align="center">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</p>
+
 
 ###
 
@@ -49,6 +51,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
 
+<p align="center">▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔</p>
 
 
 <div align="center">
