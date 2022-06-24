@@ -6,7 +6,6 @@
 
 ###
 
-<p align="left">podes ver mas detalles sobre mis proyectos en mi PORTFOLIO</p>
 
 ###
 <div align="center">
