@@ -3,7 +3,7 @@
 ###
 
 <p align="left">soy Franco, vivo en Argentina y tengo 22 años</p>
-<p align="left">podes ver mas detalles sobre mis proyectos en mi  <a href="https://francogarcia-portfolio.vercel.app/" target="_blank"> PORFOLIO </a> </p>
+<p align="left">podes ver mas detalles sobre mi y mis proyectos en mi  <a href="https://francogarcia-portfolio.vercel.app/" target="_blank"> PORFOLIO </a> </p>
 
 ###
 
