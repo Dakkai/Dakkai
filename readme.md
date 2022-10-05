@@ -56,12 +56,6 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=calm&locale=es&hide_border=true&username=dakkai" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=es&hide_title=false&layout=default &card_width=320&langs_count=5&theme=calm&hide_border=true&username=dakkai" height="150" alt="languages graph"  />
-</div>
-
-
-<div align="center">
   <a href="https://open.spotify.com/user/31kqjhca5drsa6scwog44a4pdnq4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kqjhca5drsa6scwog44a4pdnq4&count=5" alt="Spotify recently played"  />
   </a>
